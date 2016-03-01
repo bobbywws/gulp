@@ -1,0 +1,12 @@
+nav {
+	width: 100%;
+	background-color: blue;
+}
+
+nav ul {
+	display: inline-block;
+}
+
+.list-items {
+	float: left;
+}
